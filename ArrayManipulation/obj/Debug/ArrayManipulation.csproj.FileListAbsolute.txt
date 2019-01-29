@@ -79,3 +79,4 @@ C:\Users\140005\source\repos\ArrayManipulation\ArrayManipulation\bin\Autofac.Int
 C:\Users\140005\source\repos\ArrayManipulation\ArrayManipulation\bin\Autofac.xml
 C:\Users\140005\source\repos\ArrayManipulation\ArrayManipulation\bin\Autofac.Integration.WebApi.pdb
 C:\Users\140005\source\repos\ArrayManipulation\ArrayManipulation\bin\Autofac.Integration.WebApi.xml
+C:\Users\140005\source\repos\ArrayManipulation\ArrayManipulation\obj\Debug\ArrayManipulation.csprojAssemblyReference.cache
